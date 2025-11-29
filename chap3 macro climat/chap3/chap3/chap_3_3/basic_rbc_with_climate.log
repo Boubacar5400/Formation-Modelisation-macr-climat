@@ -1,0 +1,61 @@
+Starting Dynare (version 5.3).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 15 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+c      		 0.618975
+invest 		 0.0872848
+k      		 1.97846
+w      		 1.09217
+l      		 0.433261
+r      		 0.120158
+y      		 0.70626
+y_g    		 0.710513
+muc    		 2.30272
+e      		 0.176565
+s      		 6.00321
+xi     		 0.25
+d      		 0.994015
+psi    		 0
+tr     		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+             0.9              0.9                0
+            0.92             0.92                0
+          0.9702           0.9702                0
+           1.167            1.167                0
+             Inf              Inf                0
+
+
+There are 2 eigenvalue(s) larger than 1 in modulus 
+for 2 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.0710513,	 time = 0.057918
+Iter: 2,	 err. = 0.225354,	 time = 0.016886
+Iter: 3,	 err. = 0.0499305,	 time = 0.010925
+Iter: 4,	 err. = 0.00107189,	 time = 0.012323
+Iter: 5,	 err. = 5.71818e-07,	 time = 0.053085
+
+Total time of simulation: 0.193993.
+--------------------------------------------------------
+
+Perfect foresight solution found.
+
+Total computing time : 0h00m00s

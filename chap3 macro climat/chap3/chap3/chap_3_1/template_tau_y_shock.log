@@ -1,0 +1,1248 @@
+Starting Dynare (version 6.4).
+Calling Dynare with arguments: noclearall
+Preprocessing time: 0h00m00s.
+
+STEADY-STATE RESULTS:
+
+c               		 0.807302
+invest          		 0.203245
+k               		 5.15734
+w               		 1.48437
+l               		 0.456131
+r               		 0.0656313
+y               		 1.01055
+muc             		 1.4106
+g               		 0
+e               		 0.404219
+s               		 11.7223
+xi              		 0.4
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 1.48437,	 time = 0.59948
+Iter: 2,	 err. = 5.84069,	 time = 0.496979
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 3,	 err. = 5.84069,	 time = 0.459877
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 4,	 err. = 5.84069,	 time = 0.467155
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 5,	 err. = 5.84069,	 time = 0.484169
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 6,	 err. = 5.84069,	 time = 0.460327
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 7,	 err. = 5.84069,	 time = 0.461517
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 8,	 err. = 5.84069,	 time = 0.467308
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 9,	 err. = 5.84069,	 time = 0.464104
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 10,	 err. = 5.84069,	 time = 0.475418
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 11,	 err. = 5.84069,	 time = 0.461418
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 12,	 err. = 5.84069,	 time = 0.4589
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 13,	 err. = 5.84069,	 time = 0.463829
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 14,	 err. = 5.84069,	 time = 0.462547
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 15,	 err. = 5.84069,	 time = 0.463623
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 16,	 err. = 5.84069,	 time = 0.462654
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 17,	 err. = 5.84069,	 time = 0.456169
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 18,	 err. = 5.84069,	 time = 0.468979
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 19,	 err. = 5.84069,	 time = 0.46257
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 20,	 err. = 5.84069,	 time = 0.461609
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 21,	 err. = 5.84069,	 time = 0.459457
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 22,	 err. = 5.84069,	 time = 0.461517
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 23,	 err. = 5.84069,	 time = 0.46714
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 24,	 err. = 5.84069,	 time = 0.463806
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 25,	 err. = 5.84069,	 time = 0.461411
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 26,	 err. = 5.84069,	 time = 0.462364
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 27,	 err. = 5.84069,	 time = 0.458786
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 28,	 err. = 5.84069,	 time = 0.459351
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 29,	 err. = 5.84069,	 time = 0.461243
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 30,	 err. = 5.84069,	 time = 0.472305
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 31,	 err. = 5.84069,	 time = 0.458633
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 32,	 err. = 5.84069,	 time = 0.464752
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 33,	 err. = 5.84069,	 time = 0.455864
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 34,	 err. = 5.84069,	 time = 0.457504
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 35,	 err. = 5.84069,	 time = 0.475922
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 36,	 err. = 5.84069,	 time = 0.477966
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 37,	 err. = 5.84069,	 time = 0.466507
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 38,	 err. = 5.84069,	 time = 0.466438
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 39,	 err. = 5.84069,	 time = 0.460449
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 40,	 err. = 5.84069,	 time = 0.465965
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 41,	 err. = 5.84069,	 time = 0.46106
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 42,	 err. = 5.84069,	 time = 0.467133
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 43,	 err. = 5.84069,	 time = 0.468544
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 44,	 err. = 5.84069,	 time = 0.464096
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 45,	 err. = 5.84069,	 time = 0.459114
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 46,	 err. = 5.84069,	 time = 0.480423
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 47,	 err. = 5.84069,	 time = 0.464989
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 48,	 err. = 5.84069,	 time = 0.465134
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 49,	 err. = 5.84069,	 time = 0.459785
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 50,	 err. = 5.84069,	 time = 0.484261
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+
+Total time of simulation: 24.3599.
+Maximum number of iterations is reached (modify option maxit).
+--------------------------------------------------------------
+
+
+Entering the homotopy method iterations...
+
+Iter. 	 | Share 	 | Status 	 | Max. residual	 | Duration (sec)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 	 | 1.00000 	 | failed 	 | 5.840690e+00 	 | 24.4
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.49479,	 time = 0.438591
+Iter: 2,	 err. = 0.951113,	 time = 0.452225
+Iter: 3,	 err. = 0.0578743,	 time = 0.444252
+Iter: 4,	 err. = 0.0359879,	 time = 0.453217
+Iter: 5,	 err. = 0.00308344,	 time = 0.443642
+Iter: 6,	 err. = 4.101e-05,	 time = 0.440033
+Iter: 7,	 err. = 6.9836e-09,	 time = 0.450356
+
+Total time of simulation: 3.16824.
+--------------------------------------------------------
+
+
+Iter. 	 | Share 	 | Status 	 | Max. residual	 | Duration (sec)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 	 | 1.00000 	 | failed 	 | 5.840690e+00 	 | 24.4
+2 	 | 0.50000 	 | succeeded 	 | 6.983597e-09 	 | 3.2
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.750404,	 time = 0.443024
+Iter: 2,	 err. = 9.12072,	 time = 0.438805
+Iter: 3,	 err. = 53.6952,	 time = 0.44371
+Iter: 4,	 err. = 40.6694,	 time = 0.455696
+Iter: 5,	 err. = 16.7275,	 time = 0.443321
+Iter: 6,	 err. = 411.652,	 time = 0.444679
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 7,	 err. = 411.652,	 time = 0.445747
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 8,	 err. = 411.652,	 time = 0.449112
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 9,	 err. = 411.652,	 time = 0.45076
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 10,	 err. = 411.652,	 time = 0.442635
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 11,	 err. = 411.652,	 time = 0.451012
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 12,	 err. = 411.652,	 time = 0.447128
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 13,	 err. = 411.652,	 time = 0.440704
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 14,	 err. = 411.652,	 time = 0.443527
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 15,	 err. = 411.652,	 time = 0.439751
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 16,	 err. = 411.652,	 time = 0.445358
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 17,	 err. = 411.652,	 time = 0.446304
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 18,	 err. = 411.652,	 time = 0.447617
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 19,	 err. = 411.652,	 time = 0.443451
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 20,	 err. = 411.652,	 time = 0.445953
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 21,	 err. = 411.652,	 time = 0.439705
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 22,	 err. = 411.652,	 time = 0.444038
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 23,	 err. = 411.652,	 time = 0.440247
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 24,	 err. = 411.652,	 time = 0.451233
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 25,	 err. = 411.652,	 time = 0.437347
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 26,	 err. = 411.652,	 time = 0.442688
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 27,	 err. = 411.652,	 time = 0.440346
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 28,	 err. = 411.652,	 time = 0.445442
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 29,	 err. = 411.652,	 time = 0.440285
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 30,	 err. = 411.652,	 time = 0.438728
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 31,	 err. = 411.652,	 time = 0.447945
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 32,	 err. = 411.652,	 time = 0.452988
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 33,	 err. = 411.652,	 time = 0.440636
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 34,	 err. = 411.652,	 time = 0.440231
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 35,	 err. = 411.652,	 time = 0.444633
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 36,	 err. = 411.652,	 time = 0.450577
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 37,	 err. = 411.652,	 time = 0.445999
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 38,	 err. = 411.652,	 time = 0.450294
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 39,	 err. = 411.652,	 time = 0.454353
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 40,	 err. = 411.652,	 time = 0.442802
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 41,	 err. = 411.652,	 time = 0.446671
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 42,	 err. = 411.652,	 time = 0.458183
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 43,	 err. = 411.652,	 time = 0.448753
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 44,	 err. = 411.652,	 time = 0.451195
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 45,	 err. = 411.652,	 time = 0.456528
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 46,	 err. = 411.652,	 time = 0.447914
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 47,	 err. = 411.652,	 time = 0.436981
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 48,	 err. = 411.652,	 time = 0.442345
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 49,	 err. = 411.652,	 time = 0.440422
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+Iter: 50,	 err. = 411.652,	 time = 0.452591
+warning: matrix singular to machine precision
+warning: called from
+    sim1>lin_solve at line 189 column 1
+    sim1 at line 131 column 9
+    perfect_foresight_solver_core at line 103 column 22
+    perfect_foresight_solver>homotopy_loop at line 357 column 10
+    perfect_foresight_solver at line 153 column 2
+    driver at line 520 column 2
+    dynare at line 308 column 5
+    main_octave at line 134 column 5
+
+
+Total time of simulation: 23.0823.
+Maximum number of iterations is reached (modify option maxit).
+--------------------------------------------------------------
+
+
+Iter. 	 | Share 	 | Status 	 | Max. residual	 | Duration (sec)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 	 | 1.00000 	 | failed 	 | 5.840690e+00 	 | 24.4
+2 	 | 0.50000 	 | succeeded 	 | 6.983597e-09 	 | 3.2
+3 	 | 1.00000 	 | failed 	 | 4.116519e+02 	 | 23.1
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.300162,	 time = 0.445198
+Iter: 2,	 err. = 0.84045,	 time = 0.435028
+Iter: 3,	 err. = 0.00515933,	 time = 0.43895
+Iter: 4,	 err. = 0.000178237,	 time = 0.442558
+Iter: 5,	 err. = 5.07376e-08,	 time = 0.436546
+
+Total time of simulation: 2.23036.
+--------------------------------------------------------
+
+
+Iter. 	 | Share 	 | Status 	 | Max. residual	 | Duration (sec)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 	 | 1.00000 	 | failed 	 | 5.840690e+00 	 | 24.4
+2 	 | 0.50000 	 | succeeded 	 | 6.983597e-09 	 | 3.2
+3 	 | 1.00000 	 | failed 	 | 4.116519e+02 	 | 23.1
+4 	 | 0.75000 	 | succeeded 	 | 5.073758e-08 	 | 2.2
+
+--------------------------------------------------------
+MODEL SIMULATION:
+
+Iter: 1,	 err. = 0.378245,	 time = 0.438263
+Iter: 2,	 err. = 2.23353,	 time = 0.440971
+Iter: 3,	 err. = 0.024098,	 time = 0.440147
+Iter: 4,	 err. = 0.00191125,	 time = 0.435852
+Iter: 5,	 err. = 7.99218e-07,	 time = 0.436295
+
+Total time of simulation: 2.22526.
+--------------------------------------------------------
+
+
+Iter. 	 | Share 	 | Status 	 | Max. residual	 | Duration (sec)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1 	 | 1.00000 	 | failed 	 | 5.840690e+00 	 | 24.4
+2 	 | 0.50000 	 | succeeded 	 | 6.983597e-09 	 | 3.2
+3 	 | 1.00000 	 | failed 	 | 4.116519e+02 	 | 23.1
+4 	 | 0.75000 	 | succeeded 	 | 5.073758e-08 	 | 2.2
+5 	 | 1.00000 	 | succeeded 	 | 7.992184e-07 	 | 2.2
+
+Perfect foresight solution found.
+
+Total computing time : 0h00m55s
+Note: warning(s) encountered in MATLAB/Octave code

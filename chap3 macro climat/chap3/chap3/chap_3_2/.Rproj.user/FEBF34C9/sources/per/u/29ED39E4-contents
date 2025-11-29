@@ -1,0 +1,23 @@
+
+
+df <- G_sabalymemoirefinal01
+df <- as.data.frame(df)
+# Transformation des variables qualitatives en facteurs
+df$formation <- as.factor(df$formation)
+df$Plus_5_ans <- as.factor(df$Plus_5_ans)
+
+# Modèle de régression
+model <- lm(Prod_moy ~ Rend_moy + Nombredactifagricole + Sup_moy + formation + Plus_5_ans, data = df)
+
+summary(model)
+
+shapiro.test(residuals(model_log))
+
+df$log_Prod <- log(df$Prod_moy)
+model_log <- lm(log_Prod ~ Rend_moy + Nombredactifagricole + Sup_moy + formation + Plus_5_ans, data=df)
+summary(model_log)
+
+library(MASS)
+boxcox(model)
+
+
